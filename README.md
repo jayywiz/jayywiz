@@ -42,5 +42,3 @@ Here are the technologies and tools I work with:
 ---
 
 💻 **Check out my repositories** below for exciting projects, tools, and experiments! Feel free to star or fork anything you find inspiring.
-
--->
