@@ -28,7 +28,7 @@ Here are the technologies and tools I work with:
 ### 🎭 Fun Facts about me
 - **Hardworking & Dedicated:** I dive into every project with determination and persistence, leaving no stone unturned (or dataset uncleaned). 
 - **Disciplined & Focused:** When it’s time to work, I tune out distractions like a pro—unless there’s music playing, then I’m multitasking.
-- **Creative & Thoughtful:** I enjoy finding unique solutions to challenges and making sure every detail is thoughtfully considered (and maybe adding a sprinkle of flair). 
+- **Creative & Thoughtful:** I enjoy finding unique solutions to challenges and making sure every detail is thoughtfully considered. 
 - **Funny & Relatable:** I bring a dash of humor to everything I do because even data needs a good laugh sometimes!
 - **All-In Attitude:** Whether it’s a project, a new skill, or a karaoke night I didn’t sign up for, I throw myself into it 100% (results may vary on the singing).
 
