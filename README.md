@@ -37,7 +37,7 @@ Here are the technologies and tools I work with:
 ### 📧 How to Reach Me
 - Connect on [LinkedIn](https://www.linkedin.com/in/sruthijha/) 
 - Check out my portfolio [website](https://github.com)
-- Drop me a [mail](sruthipagolu@gmail.com) because even spam deserves a little attention!
+- Drop me a [mail](sruthipagolu@gmail.com) because even spam deserves a little attention! Just kidding—I respond within minutes and take your email very seriously.
 
 ---
 
