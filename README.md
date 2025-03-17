@@ -8,13 +8,13 @@ Think we’d click? Let’s connect and create something impactful together!
 
 ---
 
-### 🌱 What I'm Working On
+### What I'm Working On
 - Building an Oscar Prediction Model to forecast the 2025 Academy Award winners in key categories using data analysis and machine learning.
 - Exploring my passion in the ever-expanding world of data while navigating the challenges of shrinking attention spans—any suggestions or guidance would be greatly appreciated!
 
 ---
 
-### 💡 My Skills
+### My Skills
 Here are the technologies and tools I work with:
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
@@ -25,7 +25,7 @@ Here are the technologies and tools I work with:
   
 ------
 
-### 🎭 Fun Facts about me
+### Fun Facts about me
 - **Hardworking & Dedicated:** I dive into every project with determination and persistence, leaving no stone unturned (or dataset uncleaned). 
 - **Disciplined & Focused:** When it’s time to work, I tune out distractions like a pro—unless there’s music playing, then I’m multitasking.
 - **Creative & Thoughtful:** I enjoy finding unique solutions to challenges and making sure every detail is thoughtfully considered. 
@@ -34,11 +34,11 @@ Here are the technologies and tools I work with:
 
 ------
 
-### 📧 How to Reach Me
+### How to Reach Me
 - Connect on [LinkedIn](https://www.linkedin.com/in/sruthijha/) 
 - Check out my portfolio [website](https://github.com)
 - Drop me a [mail](sruthipagolu@gmail.com) because even spam deserves a little attention! Just kidding—I respond within minutes and take your email very seriously.
 
 ---
 
-💻 **Check out my repositories** below for exciting projects, tools, and experiments! Feel free to star or fork anything you find inspiring.
+**Check out my repositories** below for exciting projects, tools, and experiments! Feel free to star or fork anything you find inspiring.
