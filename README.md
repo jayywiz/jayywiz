@@ -8,12 +8,6 @@ Think we’d click? Let’s connect and create something impactful together!
 
 ---
 
-### What I'm Working On
-- Building an Oscar Prediction Model to forecast the 2025 Academy Award winners in key categories using data analysis and machine learning.
-- Exploring my passion in the ever-expanding world of data while navigating the challenges of shrinking attention spans-any suggestions or guidance would be greatly appreciated!
-
----
-
 ### My Skills
 Here are the technologies and tools I work with:
 - **Programming Languages**: Python, R, SQL
