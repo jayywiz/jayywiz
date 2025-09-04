@@ -26,4 +26,4 @@ Here are the technologies and tools I work with:
 
 ---
 
-**Check out my repositories** below for not so exciting projects haha (I will get there)! 
+**Check out my repositories** below for not so exciting projects haha, I will get there :)
